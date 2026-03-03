@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-  <title>happy birthday · meri unho ??</title>
+  <title>happy birthday Â· meri unho ??</title>
   <!-- fonts & css -->
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;900&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
   <style>
@@ -94,7 +94,7 @@
     <section class="section">
       <div class="glass-card" style="max-width:800px;">
         <div id="typewriterContainer" class="typewriter" style="min-height: 200px;"></div>
-        <div class="signature">— With love <span style="color:#fbc1c1;">(Apka wo..??)</span></div>
+        <div class="signature">â€” With love <span style="color:#fbc1c1;">(Apka wo..??)</span></div>
       </div>
     </section>
 
@@ -136,7 +136,7 @@
 
     <!-- FOOTER -->
     <footer>
-      <p>Made with <span style="color:#fbc1c1;">??</span> · for the most beautiful soul</p>
+      <p>Made with <span style="color:#fbc1c1;">??</span> Â· for the most beautiful soul</p>
     </footer>
   </div>
 
@@ -206,7 +206,7 @@
       });
 
       // typewriter effect
-      const message = `I remember the first time we spoke — the world felt lighter. 
+      const message = `I remember the first time we spoke â€” the world felt lighter. 
 Every moment with you is a page from a fairytale I never want to end. 
 You have a way of making ordinary days feel extraordinary. 
 And today, the universe celebrates the masterpiece that is you. ??`;
@@ -307,4 +307,5 @@ And today, the universe celebrates the masterpiece that is you. ??`;
     ::selection { background: #e5c687; color: #0b0a0c; }
   </style>
 </body>
+
 </html>
